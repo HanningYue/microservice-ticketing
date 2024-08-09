@@ -11,8 +11,8 @@ const buildClient = ({ req }) => {
   } else {
     // We are on the browser
     return axios.create({
-      baseURL: '/',
-      withCredentials: true, // Ensure credentials are sent
+      baseURL: 'jamieyue-microservice-ticketing.site',
+      headers: req.headers,
     });
   }
 };
