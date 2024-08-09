@@ -8,6 +8,7 @@ metadata:
 spec:
   rules:
     - host: www.jamieyue-microservice-ticketing.site
+    - host: ticketing.dev
       http:
         paths:
           - path: /api/users/?(.*)
