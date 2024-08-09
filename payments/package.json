@@ -7,10 +7,6 @@
     "start": "ts-node-dev src/index.ts",
     "test": "jest --watchAll --no-cache",
     "test:ci": "jest"
-<<<<<<< HEAD
-=======
-
->>>>>>> 37fa669ec351988690861038888e4100166f888b
   },
   "jest": {
     "preset": "ts-jest",
