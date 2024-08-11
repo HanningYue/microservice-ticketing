@@ -8,11 +8,6 @@ This repository contains a microservices-based ticketing platform, built using T
 - [Features](#features)
 - [Architecture](#architecture)
 - [Technologies Used](#technologies-used)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
